@@ -1,0 +1,18 @@
+<operators>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">1</id>
+    <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">0a8c50a1-c55a-42ab-997b-30f0c3f3a390</player>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">2</id>
+    <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">7d479807-68a9-40df-b568-5ae546020622</player>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">3</id>
+    <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">639e9744-6571-4d33-a714-d5e803f47d51</player>
+  </entry>
+  <entry>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">4</id>
+    <player auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">3a50b440-7a4f-42fc-beb0-2e1828674ddb</player>
+  </entry>
+</operators>

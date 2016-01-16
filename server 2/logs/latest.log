@@ -1,0 +1,60 @@
+[12:46:27] [CanaryMod] [INFO]: Starting: CanaryMod 1.8.0-1.2.0-RC1
+[12:46:27] [CanaryMod] [INFO]: Canary Path: /Users/boss2bmj/Desktop/server/CanaryMod.jar & Working From: /Users/boss2bmj/Desktop/server
+[12:46:27] [CanaryMod] [INFO]: Registered xml Database
+[12:46:27] [CanaryMod] [INFO]: Found 5 plugins; total: 5
+[12:46:29] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting minecraft server version 1.8
+[12:46:29] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Loading properties
+[12:46:29] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Generating keypair
+[12:46:29] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Starting Minecraft server on *:25565
+[12:46:29] [CanaryMod] [INFO]: Enabling early Plugins...
+[12:46:30] [CanaryMod] [INFO]: Enabling late Plugins...
+[12:46:30] [CanaryMod] [INFO]: Enabling plugin BossPlugin
+[12:46:30] [BossPlugin] [INFO]: Starting up
+[12:46:30] [CanaryMod] [INFO]: Enabling plugin CreeperCow
+[12:46:30] [CreeperCow] [INFO]: Starting up
+[12:46:30] [CanaryMod] [INFO]: Enabling plugin NameCow
+[12:46:30] [NameCow] [INFO]: Starting up
+[12:46:30] [net.minecraft.server.MinecraftServer] [INFO]: Preparing start region for level default_NORMAL (0)
+[12:46:31] [net.minecraft.server.MinecraftServer] [INFO]: Preparing spawn area: 57%
+[12:46:31] [CanaryMod] [INFO]: Enabling plugin Shootergame
+[12:46:31] [Shootergame] [INFO]: Starting up
+[12:46:31] [CanaryMod] [INFO]: Enabling plugin StartSnakeGame
+[12:46:31] [StartSnakeGame] [INFO]: Starting up
+[12:46:31] [net.minecraft.server.MinecraftServer] [INFO]: Preparing start region for level default_NORMAL (0)
+[12:46:32] [net.minecraft.server.dedicated.DedicatedServer] [INFO]: Done (2.741s)! For help, type "help" or "?"
+[12:47:18] [net.minecraft.server.network.NetHandlerLoginServer] [INFO]: UUID of player boss2bmj is 0a8c50a1-c55a-42ab-997b-30f0c3f3a390
+[12:47:18] [net.minecraft.server.management.ServerConfigurationManager] [INFO]: boss2bmj[/127.0.0.1:53296] logged in with entity id 686 at (-884.2678246683863, 96.0, 87.01249998807907)
+[12:47:18] [net.minecraft.server.MinecraftServer] [INFO]: boss2bmj joined the game
+[12:53:53] [CanaryMod] [INFO]: Score team 1 =1
+[12:53:53] [net.minecraft.server.MinecraftServer] [INFO]: boss2bmj went up in flames
+[12:56:24] [CanaryMod] [INFO]: Command used by boss2bmj: /quitgame
+[13:00:17] [CanaryMod] [INFO]: Score team 2 =1
+[13:00:17] [net.minecraft.server.MinecraftServer] [INFO]: boss2bmj went up in flames
+[13:00:24] [CanaryMod] [INFO]: Score team 2 =2
+[13:00:24] [net.minecraft.server.MinecraftServer] [INFO]: boss2bmj went up in flames
+[13:00:34] [CanaryMod] [INFO]: <&7boss2bmj&f> score
+[13:00:38] [CanaryMod] [INFO]: Score team 1 =1
+[13:00:38] [CanaryMod] [INFO]: Score team 2 =2
+[13:00:38] [CanaryMod] [INFO]: Command used by boss2bmj: /score
+[13:05:21] [CanaryMod] [INFO]: <&7boss2bmj&f> reset
+[13:05:40] [CanaryMod] [INFO]: <&7boss2bmj&f> reset
+[13:05:44] [CanaryMod] [INFO]: Score team 1 =1
+[13:05:44] [CanaryMod] [INFO]: Score team 2 =2
+[13:05:44] [CanaryMod] [INFO]: The Score will be reseted
+[13:05:44] [CanaryMod] [INFO]: Score team 1 =0
+[13:05:44] [CanaryMod] [INFO]: Score team 2 =0
+[13:05:44] [CanaryMod] [INFO]: Command used by boss2bmj: /resets
+[13:06:54] [net.minecraft.network.NetHandlerPlayServer] [INFO]: boss2bmj lost connection: Disconnected
+[13:06:54] [net.minecraft.server.MinecraftServer] [INFO]: boss2bmj left the game
+[13:06:59] [CanaryMod] [INFO] [NOTICE]: Console issued a manual shutdown
+[13:06:59] [net.minecraft.server.MinecraftServer] [INFO]: Stopping server
+[13:06:59] [net.minecraft.server.MinecraftServer] [INFO]: Saving players
+[13:06:59] [net.minecraft.server.MinecraftServer] [INFO]: Saving worlds
+[13:06:59] [net.minecraft.server.MinecraftServer] [INFO]: Saving chunks for level 'default'/Overworld
+[13:07:00] [CanaryMod] [INFO]: Disabling Plugins ...
+[13:07:00] [CanaryMod] [INFO]: Disabling plugin BossPlugin
+[13:07:00] [CanaryMod] [INFO]: Disabling plugin CreeperCow
+[13:07:00] [CanaryMod] [INFO]: Disabling plugin NameCow
+[13:07:00] [CanaryMod] [INFO]: Disabling plugin Shootergame
+[13:07:00] [CanaryMod] [INFO]: Disabling plugin StartSnakeGame
+[13:07:00] [StartSnakeGame] [INFO]: Stopping

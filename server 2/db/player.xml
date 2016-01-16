@@ -1,0 +1,65 @@
+<player>
+  <entry>
+    <group auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">players</group>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">1</id>
+    <isMuted auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isMuted>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">Bob the Builder</name>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</prefix>
+    <subgroups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true"></subgroups>
+    <uuid auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false"></uuid>
+  </entry>
+  <entry>
+    <group auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">mods</group>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">2</id>
+    <isMuted auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isMuted>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">Moderator Person</name>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</prefix>
+    <subgroups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true"></subgroups>
+    <uuid auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false"></uuid>
+  </entry>
+  <entry>
+    <group auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">admins</group>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">3</id>
+    <isMuted auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isMuted>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">Evil Uber Administrator</name>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</prefix>
+    <subgroups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true"></subgroups>
+    <uuid auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false"></uuid>
+  </entry>
+  <entry>
+    <group auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">visitors</group>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">4</id>
+    <isMuted auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isMuted>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">boss2bmj</name>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</prefix>
+    <subgroups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true"></subgroups>
+    <uuid auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">0a8c50a1-c55a-42ab-997b-30f0c3f3a390</uuid>
+  </entry>
+  <entry>
+    <group auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">visitors</group>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">5</id>
+    <isMuted auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isMuted>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">Best42</name>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</prefix>
+    <subgroups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true"></subgroups>
+    <uuid auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">3a50b440-7a4f-42fc-beb0-2e1828674ddb</uuid>
+  </entry>
+  <entry>
+    <group auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">visitors</group>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">6</id>
+    <isMuted auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isMuted>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">Slurpe3</name>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</prefix>
+    <subgroups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true"></subgroups>
+    <uuid auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">7d479807-68a9-40df-b568-5ae546020622</uuid>
+  </entry>
+  <entry>
+    <group auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">visitors</group>
+    <id auto-increment="true" data-type="INTEGER" column-type="PRIMARY" is-list="false">7</id>
+    <isMuted auto-increment="false" data-type="BOOLEAN" column-type="NORMAL" is-list="false">false</isMuted>
+    <name auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">Ploysuay</name>
+    <prefix auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">null</prefix>
+    <subgroups auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="true"></subgroups>
+    <uuid auto-increment="false" data-type="STRING" column-type="NORMAL" is-list="false">639e9744-6571-4d33-a714-d5e803f47d51</uuid>
+  </entry>
+</player>
